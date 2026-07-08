@@ -1,20 +1,20 @@
 # Node modules
-/node_modules
+node_modules/
 
 # Compilation output
-/dist
+dist/
 
 # pnpm deploy output
-/bundle
+bundle/
 
 # Hardhat Build Artifacts
-/artifacts
+artifacts/
 
 # Hardhat compilation (v2) support directory
-/cache
+cache/
 
 # Typechain output
-/types
+types/
 
 # Environment files
 .env
@@ -22,23 +22,23 @@
 !.env.example
 
 # Hardhat coverage reports
-/coverage
+coverage/
 
 # Gas snapshot files
-/.gas-snapshot
+.gas-snapshot
 
 # Snapshot cheatcodes output
-/snapshots
+snapshots/
 
 # macOS
 .DS_Store
 
 # Claude Code / AI assistant files
-.agents
-.claude
+**.agents/
+**/.claude
 .Rhistory
 AGENTS.md
 CLAUDE.md
 
-#idea
+# IDE settings
 .idea/

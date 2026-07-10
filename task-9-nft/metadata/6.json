@@ -1,0 +1,11 @@
+{
+  "name": "Coral",
+  "description": "A fluffy fur ball creature character.",
+  "image": "ipfs://bafybeihfrnxuc6f2nnnschkbceviglgzfdmstmyro2rhn2fiesk3mu75ti",
+  "attributes": [
+    { "trait_type": "color", "value": "pink" },
+    { "trait_type": "speed", "value": "High" },
+    { "trait_type": "strength", "value": "Low" },
+    { "trait_type": "rarity", "value": "Common" }
+  ]
+}

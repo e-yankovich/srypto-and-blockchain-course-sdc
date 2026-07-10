@@ -1,0 +1,9 @@
+{
+  "name": "Student Visit Card — Evgeniya Y.",
+  "description": "Soulbound visit card NFT for the Crypto and Blockchain course.",
+  "image": "ipfs://bafybeigcfyhszknchfztk2gd7eqsuck4rbmyygwwuyvgtjbmr7z62o5lbu",
+  "attributes": [
+    { "trait_type": "studentName", "value": "Evgeniya Y." },
+    { "trait_type": "course", "value": "crypto-and-blockchain-course-sdc" }
+  ]
+}

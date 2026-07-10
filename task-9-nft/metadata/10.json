@@ -1,0 +1,11 @@
+{
+  "name": "Pearl",
+  "description": "A fluffy fur ball creature character.",
+  "image": "ipfs://bafybeicofmqpd4lu6jaqg455vfeov4ydpznycnif6vpow5lb4kqplecdgy",
+  "attributes": [
+    { "trait_type": "color", "value": "iridescent white-gold" },
+    { "trait_type": "speed", "value": "Medium" },
+    { "trait_type": "strength", "value": "Medium" },
+    { "trait_type": "rarity", "value": "Legendary" }
+  ]
+}

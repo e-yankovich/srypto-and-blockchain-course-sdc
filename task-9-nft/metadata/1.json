@@ -1,0 +1,11 @@
+{
+  "name": "Blaze",
+  "description": "A fluffy fur ball creature character.",
+  "image": "ipfs://bafybeihepqhv2jyvxya4axequjojmprgasglypql5agqc7ecgd3a4des34",
+  "attributes": [
+    { "trait_type": "color", "value": "red" },
+    { "trait_type": "speed", "value": "High" },
+    { "trait_type": "strength", "value": "Medium" },
+    { "trait_type": "rarity", "value": "Rare" }
+  ]
+}

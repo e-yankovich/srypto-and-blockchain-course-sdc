@@ -1,0 +1,11 @@
+{
+  "name": "Sky",
+  "description": "A fluffy fur ball creature character.",
+  "image": "ipfs://bafybeichkj6uqlyhcft7npa3h3n5ev344mldbfpilsroux42tw3ihrcg3u",
+  "attributes": [
+    { "trait_type": "color", "value": "blue" },
+    { "trait_type": "speed", "value": "Medium" },
+    { "trait_type": "strength", "value": "Low" },
+    { "trait_type": "rarity", "value": "Common" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Lilac",
+  "description": "A fluffy fur ball creature character.",
+  "image": "ipfs://bafybeieotqprzla4edltw2vfrfl6himj7lizfg7j2y2ot3mcmt6lvabmxa",
+  "attributes": [
+    { "trait_type": "color", "value": "purple" },
+    { "trait_type": "speed", "value": "Medium" },
+    { "trait_type": "strength", "value": "Medium" },
+    { "trait_type": "rarity", "value": "Uncommon" }
+  ]
+}

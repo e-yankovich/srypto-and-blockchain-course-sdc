@@ -1,0 +1,11 @@
+{
+  "name": "Moss",
+  "description": "A fluffy fur ball creature character.",
+  "image": "ipfs://bafybeih67vfax4f4hry2sdllilj5lgqjyoqc6vsc4tkl5f6t5zmejaydsu",
+  "attributes": [
+    { "trait_type": "color", "value": "green" },
+    { "trait_type": "speed", "value": "Low" },
+    { "trait_type": "strength", "value": "High" },
+    { "trait_type": "rarity", "value": "Uncommon" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Frost",
+  "description": "A fluffy fur ball creature character.",
+  "image": "ipfs://bafybeibm536dbjaobah3hpaqqpf7pmhmmvkzu5abcxmvc4n6yxqkf72shm",
+  "attributes": [
+    { "trait_type": "color", "value": "ice-blue/white" },
+    { "trait_type": "speed", "value": "Low" },
+    { "trait_type": "strength", "value": "High" },
+    { "trait_type": "rarity", "value": "Rare" }
+  ]
+}

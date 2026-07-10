@@ -1,0 +1,11 @@
+{
+  "name": "Amber",
+  "description": "A fluffy fur ball creature character.",
+  "image": "ipfs://bafybeif643gqxbf5yycymp2ypgjl7se54n3ffa5j33ipbcn42iwkwa5nwm",
+  "attributes": [
+    { "trait_type": "color", "value": "orange" },
+    { "trait_type": "speed", "value": "High" },
+    { "trait_type": "strength", "value": "Medium" },
+    { "trait_type": "rarity", "value": "Uncommon" }
+  ]
+}

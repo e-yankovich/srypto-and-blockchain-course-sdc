@@ -1,0 +1,11 @@
+{
+  "name": "Shadow",
+  "description": "A fluffy fur ball creature character.",
+  "image": "ipfs://bafybeiaap2tpr5kdtyn5swhtzrthpdboybsyjdjq2e6qc42spxnm3iqi5i",
+  "attributes": [
+    { "trait_type": "color", "value": "black" },
+    { "trait_type": "speed", "value": "Medium" },
+    { "trait_type": "strength", "value": "High" },
+    { "trait_type": "rarity", "value": "Legendary" }
+  ]
+}

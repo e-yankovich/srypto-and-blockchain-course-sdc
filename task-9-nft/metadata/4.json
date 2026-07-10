@@ -1,0 +1,11 @@
+{
+  "name": "Sunny",
+  "description": "A fluffy fur ball creature character.",
+  "image": "ipfs://bafybeidm34f7wl2qs5n26it3ynmd6eaamstmali6ipibjfewy7v3dbvyfm",
+  "attributes": [
+    { "trait_type": "color", "value": "yellow" },
+    { "trait_type": "speed", "value": "High" },
+    { "trait_type": "strength", "value": "Low" },
+    { "trait_type": "rarity", "value": "Common" }
+  ]
+}
